@@ -28,4 +28,14 @@
 
 {Explain enviroment setup for Linux operating system.}
 
+### Our workflow
+
+{Proivde an overview of your project's workflow to collaborate and contribute.}
+
+#### Open issues
+
+{Describe process for}
+
 ## Contributing to docs
+
+{This section is tailored to writers interested in contributing to your documentation.}
