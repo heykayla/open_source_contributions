@@ -38,6 +38,10 @@ Ensure you have the following:
 
 {Explain enviroment setup for Linux operating system.}
 
+### Coding practices
+
+{Provide and describe best coding practices that you want your contributors to follow.}
+
 ### Contribution workflow
 
 {Provide an overview of your project's workflow to collaborate and contribute. The sections below help you provide granularity.}
@@ -57,10 +61,6 @@ Ensure you have the following:
 #### Creating and submitting pull requests
 
 {Provide instructions for creating and submitting pull requests. This section can also detail instructions for code reviews as pull requests ad code reviews go hand-in-hand. Also, if applicable, you can provide a link or share the template for pull requests that contributors must use.}
-
-### Coding practices
-
-{Provide and describe best coding practices that you want your contributors to follow.}
 
 ---
 
