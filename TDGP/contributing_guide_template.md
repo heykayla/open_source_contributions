@@ -60,6 +60,8 @@ Ensure you have the following:
 
 ### Coding practices
 
+{Provide and describe best coding practices that you want your contributors to follow.}
+
 #### Issue management
 
 {Provide information and the current workflow for managing issues, tagging issues, assigning issues, etc.}
