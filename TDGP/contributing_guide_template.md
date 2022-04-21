@@ -48,7 +48,7 @@ Ensure you have the following:
 
 #### Issue management
 
-{Provide information and the current workflow for managing issues, tagging issues, assigning issues, etc.}
+{Provide instructions for managing, creating, tagging, and assigning issues.}
 
 #### Creating a branch
 
@@ -56,7 +56,7 @@ Ensure you have the following:
 
 #### Creating and submitting pull requests
 
-{Describe the process and share instructions for creating and submitting pull requests.}
+{Provide instructions for creating and submitting pull requests. If applicable, you can provide a link or share the template for pull requests that contributors must use.}
 
 #### Code reviews
 
