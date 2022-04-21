@@ -16,6 +16,8 @@
 
 {This section is tailored to developers interested in contributing to an open source project's code.}
 
+If you're interested in contributing to our source code, read the sections below to learn how you can contribute.
+
 ### Enviroment set up
 
 Ensure you have the following:
