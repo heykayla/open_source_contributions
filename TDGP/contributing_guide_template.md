@@ -14,7 +14,7 @@
 
 ## Contribute to code
 
-{This section is tailored to developers interested in contributing to an open source project's code.}
+{This section is tailored to developers interested in contributing to your open source project's code.}
 
 If you're interested in contributing to our source code, read the sections below to learn how you can contribute.
 
@@ -40,7 +40,7 @@ Ensure you have the following:
 
 ### Contribution workflow
 
-{Provide an overview of your project's workflow to collaborate and contribute.}
+{Provide an overview of your project's workflow to collaborate and contribute. The sections below help you provide granularity.}
 
 #### Forking and cloning
 
