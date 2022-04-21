@@ -58,6 +58,10 @@ Ensure you have the following:
 
 {Provide instructions for creating a branch when making changes to the cloned repository.}
 
+#### Commit message
+
+{Provide specifications on how you want contributors to format their Git commit messages.}
+
 #### Creating and submitting pull requests
 
 {Provide instructions for creating and submitting pull requests. This section can also detail instructions for code reviews as pull requests ad code reviews go hand-in-hand. Also, if applicable, you can provide a link or input the pull request template that you want contributors to use.}
