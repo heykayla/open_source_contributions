@@ -60,7 +60,7 @@ Ensure you have the following:
 
 #### Creating and submitting pull requests
 
-{Provide instructions for creating and submitting pull requests. This section can also detail instructions for code reviews as pull requests ad code reviews go hand-in-hand. Also, if applicable, you can provide a link or share the template for pull requests that contributors must use.}
+{Provide instructions for creating and submitting pull requests. This section can also detail instructions for code reviews as pull requests ad code reviews go hand-in-hand. Also, if applicable, you can provide a link or input the pull request template that you want contributors to use.}
 
 ---
 
