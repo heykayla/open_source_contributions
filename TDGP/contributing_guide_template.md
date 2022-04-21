@@ -62,10 +62,6 @@ Ensure you have the following:
 
 {Provide and describe best coding practices that you want your contributors to follow.}
 
-#### Issue management
-
-{Provide information and the current workflow for managing issues, tagging issues, assigning issues, etc.}
-
 ---
 
 ## Contribute to docs
