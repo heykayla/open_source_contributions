@@ -4,7 +4,7 @@
 
 ## Welcome
 
-{Share a welcome message introducing your open source project to interested or current contributors.}
+{Share a welcome message introducing your open source project to contributors.}
 
 ## Contributing to {NAME}
 
