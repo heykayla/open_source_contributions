@@ -2,7 +2,7 @@
 
 ## Welcome
 
-{Insert a welcome message.}
+{Share a welcome message introducing your open source project to interested or aspiring contributors.}
 
 ## Code of conduct
 
