@@ -1,5 +1,7 @@
 # Contributing Guide
 
+{Before using this template, read teh accompanying contributing guide template guide.}
+
 ## Welcome
 
 {Share a welcome message introducing your open source project to interested or aspiring contributors.}
