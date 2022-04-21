@@ -4,11 +4,11 @@
 
 ## Welcome
 
-{Share a welcome message introducing your open source project to interested or aspiring contributors.}
+{Share a welcome message introducing your open source project to interested or current contributors.}
 
-## Code of conduct
+## Contributing to {NAME}
 
-{Share links, info, etc., that the contributor needs to read before contributing (e.g., style guide, code of conduct, Slack workspace, email distros, etc.)}
+{In this section, provide important information that contributors need to review before they contribute. Information can include links to your style guide, code of conduct, email distribution list, Slack workspace, etc.}
 
 ---
 
