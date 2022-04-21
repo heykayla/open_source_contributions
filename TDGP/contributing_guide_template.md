@@ -68,6 +68,8 @@ Ensure you have the following:
 
 {This section is tailored to writers interested in contributing to your documentation.}
 
+If you're interested in contributing to our documentation, read the sections below to learn how you can contribute.
+
 ### Enviroment set up
 
 Ensure you have the following:
