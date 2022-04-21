@@ -44,7 +44,7 @@ Ensure you have the following:
 
 #### Forking and cloning
 
-{Provide instructions for cloning your repository and explain purpose.}
+{Provide instructions for cloning your repository.}
 
 #### Issue management
 
