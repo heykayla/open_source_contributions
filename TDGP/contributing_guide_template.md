@@ -8,7 +8,7 @@
 
 ## Contributing to {NAME}
 
-{In this section, provide important information that contributors need to review before they contribute. Information can include links to your style guide, code of conduct, email distribution list, Slack workspace, etc.}
+{Provide important information that contributors need to review before they contribute.}
 
 ---
 
