@@ -1,6 +1,6 @@
 # Contributing Guide
 
-{Before using this template, read teh accompanying contributing guide template guide.}
+{Before using this template, read the accompanying contributing guide template guide.}
 
 ## Welcome
 
