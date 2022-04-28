@@ -20,7 +20,7 @@ If you're interested in contributing to our source code, read the sections below
 
 ### Enviroment set up
 
-{Provide a list of prerequisites that your contributors}
+{Provide a list of prerequisites that your contributors need to do or have before they contribute.}
 
 Ensure you have the following:
 
