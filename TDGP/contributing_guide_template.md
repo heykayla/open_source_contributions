@@ -12,11 +12,11 @@
 
 ---
 
-## Contribute to code
+## Contribute to our code
 
-{This section is tailored to developers interested in contributing to your open source project's code.}
+{This section is tailored to developers interested in contributing to your open source project's codebase.}
 
-If you're interested in contributing to our source code, read the sections below to learn how you can contribute.
+If you're interested in contributing to our codebase, read the sections below to learn how you can contribute.
 
 ### Enviroment set up
 
@@ -70,7 +70,7 @@ Ensure you have the following:
 
 ---
 
-## Contribute to docs
+## Contribute to our docs
 
 {This section is tailored to writers interested in contributing to your documentation.}
 
