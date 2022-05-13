@@ -4,17 +4,19 @@
 
 ## Welcome
 
-{Share a welcome message introducing your open source project to contributors.}
+{Share a welcome message introducing your open source project to your contributors.}
 
 ## Contributing to {NAME}
 
-{Provide important information that contributors need to review before they contribute.}
+{Provide important information that contributors need to read before they contribute.}
+
+# License and Policies
 
 ---
 
 ## Contribute to our code
 
-{This section is tailored to developers interested in contributing to your open source project's codebase.}
+{This section is tailored to developers interested in contributing to your codebase.}
 
 If you're interested in contributing to our codebase, read the sections below to learn how you can contribute.
 
@@ -42,11 +44,11 @@ Ensure you have the following:
 
 ### Coding practices
 
-{Provide and describe best coding practices that you want your contributors to follow.}
+{Describe best coding practices that you want contributors to follow.}
 
 ### Contribution workflow
 
-{Provide an overview of your project's workflow to collaborate and contribute. The sections below help you provide granularity.}
+{Provide an overview of your project's workflow for collaborating and contributing. The sections below help you provide granularity.}
 
 #### Forking and cloning
 
@@ -62,11 +64,11 @@ Ensure you have the following:
 
 #### Commit message
 
-{Provide specifications on how you want contributors to format their Git commit messages.}
+{Provide instructions on how you want contributors to format their Git commit messages.}
 
 #### Creating and submitting pull requests
 
-{Provide instructions for creating and submitting pull requests. This section can also detail instructions for code reviews as pull requests ad code reviews go hand-in-hand. Also, if applicable, you can provide a link or input the pull request template that you want contributors to use.}
+{Provide instructions for creating and submitting pull requests. This section can also detail instructions for code reviews as pull requests ad code reviews go hand-in-hand. Also, if applicable, you can share a link or include the pull request template that you want contributors to use within this section.}
 
 ---
 
@@ -78,6 +80,8 @@ If you're interested in contributing to our documentation, read the sections bel
 
 ### Enviroment set up
 
+{Provide a list of prerequisites that your contributors need to do or have before they contribute.}
+
 Ensure you have the following:
 
 - Item1
@@ -86,11 +90,21 @@ Ensure you have the following:
 
 ### Content style guide
 
-{Share a purpose statement about your style guide and provide a link for contributors to review.}
+{Share a purpose statement about your style guide and share a link to your style guide for contributors to review.}
+
+The purpose of our style guide is to ensure consistency, tone, voice, and other stylistic characteristics of our documentation.
+
+Before you begin contributing to our documentation, please thoroughly review our {title of your style guide}.
 
 ### Contribution workflow
 
 {The sections below details the workflow contributors must follow.}
+
+We have a set workflow to streamline contributing work for all contributors to follow.
+
+For this project, we use {name of version control system platform} to manage and implement your work.
+
+The sections below detail the process for contributing within the {name of version control system platform} framework.
 
 #### Forking and cloning
 
@@ -123,5 +137,3 @@ Ensure you have the following:
 ### Office hours
 
 {If you meet up regularly, share information on your office hours.}
-
-### License
