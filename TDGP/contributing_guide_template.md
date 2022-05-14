@@ -6,11 +6,15 @@
 
 {Share a welcome message introducing your open source project to your contributors.}
 
-## Contributing to {NAME}
+## {Name} Overview
 
-{Provide important information that contributors need to read before they contribute.}
+{Provide a brief description about your project.}
 
-## License and Policies
+## Code of Conduct
+
+{Provide a link to your code of conduct that you need contributors follow.}
+
+Please read our code of conduct to learn about our collection of rules, standards, values, and behavior expectations that contributors need to follow.
 
 ---
 
@@ -22,9 +26,9 @@ If you're interested in contributing to our codebase, read the sections below to
 
 ### Enviroment set up
 
-{Provide a list of prerequisites that your contributors need to do or have before they contribute.}
+{Provide a list of prerequisites that your contributors need complete or have before they can contribute.}
 
-Ensure you have the following:
+Ensure you have the following before contributing:
 
 - Item1
 - Item2
@@ -32,15 +36,15 @@ Ensure you have the following:
 
 #### Windows
 
-{Explain the enviroment setup for Windows computers.}
+{Explain the enviroment setup for Windows computers. Include a link to an external page for troubleshooting.}
 
 #### Mac
 
-{Explain the enviroment setup for Mac computers.}
+{Explain the enviroment setup for Mac computers. Include a link to an external page for troubleshooting.}
 
 #### Linux
 
-{Explain the enviroment setup for Linux operating system.}
+{Explain the enviroment setup for Linux operating system. Include a link to an external page for troubleshooting.}
 
 ### Coding practices
 
