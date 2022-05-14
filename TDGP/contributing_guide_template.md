@@ -80,9 +80,9 @@ If you're interested in contributing to our documentation, read the sections bel
 
 ### Enviroment set up
 
-{Provide a list of prerequisites that your contributors need to do or have before they contribute.}
+{Provide a list of prerequisites that your contributors need complete or have before they can contribute.}
 
-Ensure you have the following:
+Ensure you have the following before contributing:
 
 - Item1
 - Item2
@@ -92,7 +92,7 @@ Ensure you have the following:
 
 {Share a purpose statement about your style guide and share a link to your style guide for contributors to review.}
 
-The purpose of our style guide is to ensure consistency, tone, voice, and other stylistic characteristics of our documentation.
+The purpose of our style guide is to ensure consistency in tone, voice, structure of our documentation.
 
 Before you begin contributing to our documentation, please thoroughly review our {title of your style guide}.
 
