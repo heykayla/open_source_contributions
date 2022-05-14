@@ -32,15 +32,15 @@ Ensure you have the following:
 
 #### Windows
 
-{Explain enviroment setup for Windows computers.}
+{Explain the enviroment setup for Windows computers.}
 
 #### Mac
 
-{Explain enviroment setup for Mac computers.}
+{Explain the enviroment setup for Mac computers.}
 
 #### Linux
 
-{Explain enviroment setup for Linux operating system.}
+{Explain the enviroment setup for Linux operating system.}
 
 ### Coding practices
 
@@ -48,7 +48,7 @@ Ensure you have the following:
 
 ### Contribution workflow
 
-{Provide an overview of your project's workflow for collaborating and contributing. The sections below help you provide granularity.}
+{Provide an overview of your project's workflow for collaborating and contributing. The sections below can help you provide granularity.}
 
 #### Forking and cloning
 
@@ -68,7 +68,7 @@ Ensure you have the following:
 
 #### Creating and submitting pull requests
 
-{Provide instructions for creating and submitting pull requests. This section can also detail instructions for code reviews as pull requests ad code reviews go hand-in-hand. Also, if applicable, you can share a link or include the pull request template that you want contributors to use within this section.}
+{Provide instructions for creating and submitting pull requests. This section can also detail instructions for code reviews as pull requests and code reviews can go hand-in-hand. Also, if applicable, you can share a link or include the pull request template that you want contributors to use within this section.}
 
 ---
 
