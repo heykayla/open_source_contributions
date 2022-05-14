@@ -54,6 +54,10 @@ Ensure you have the following before contributing:
 
 {Provide an overview of your project's workflow for collaborating and contributing. The sections below can help you provide granularity.}
 
+We have a set workflow to streamline contributors work. For this project, we use {name of collaboration platform}.
+
+The sections below detail our current workflow.
+
 #### Forking and cloning
 
 {Provide instructions for cloning your repository.}
@@ -104,9 +108,7 @@ Before you begin contributing to our documentation, please thoroughly review our
 
 {The sections below details the workflow contributors must follow.}
 
-We have a set workflow to streamline contributors work.
-
-For this project, we use {name of collaboration platform} to manage and implement contributors work.
+We have a set workflow to streamline contributors work. For this project, we use {name of collaboration platform}.
 
 The sections below detail our current workflow.
 
