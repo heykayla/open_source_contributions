@@ -82,6 +82,10 @@ The sections below detail our current workflow.
 
 {Provide instructions for creating and submitting pull requests. This section can also detail instructions for code reviews as pull requests and code reviews can go hand-in-hand. Also, if applicable, you can share a link or include the pull request template that you want contributors to use within this section.}
 
+### Reporting issues
+
+{Provide instructions for reporting issues related to your codebase.}
+
 ### Office hours
 
 {If you meet up regularly, share information on your office hours and a link to a reocurring meeting invite, if applicable.}
@@ -142,7 +146,11 @@ The sections below detail our current workflow.
 
 ### Document suggestions
 
-{The sections below should detail the process for submitting new document suggestions.}
+{Detail the process for submitting new document suggestions.}
+
+### Reporting issues
+
+{Provide instructions for reporting issues related to your documentation.}
 
 ### Office hours
 
