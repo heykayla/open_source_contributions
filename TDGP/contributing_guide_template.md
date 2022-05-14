@@ -92,7 +92,7 @@ Ensure you have the following before contributing:
 
 {Share a purpose statement about your style guide and share a link to your style guide for contributors to review.}
 
-The purpose of our style guide is to ensure consistency in tone, voice, structure of our documentation.
+The purpose of our style guide is to ensure consistency in tone, voice, and structur of our documentation.
 
 Before you begin contributing to our documentation, please thoroughly review our {title of your style guide}.
 
@@ -100,11 +100,11 @@ Before you begin contributing to our documentation, please thoroughly review our
 
 {The sections below details the workflow contributors must follow.}
 
-We have a set workflow to streamline contributing work for all contributors to follow.
+We have a set workflow to streamline contributors work.
 
-For this project, we use {name of version control system platform} to manage and implement your work.
+For this project, we use {name of collaboration platform} to manage and implement contributors work.
 
-The sections below detail the process for contributing within the {name of version control system platform} framework.
+The sections below detail our current workflow.
 
 #### Forking and cloning
 
