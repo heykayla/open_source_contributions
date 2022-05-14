@@ -118,7 +118,7 @@ The sections below detail our current workflow.
 
 #### Issue management
 
-{Provide information and the current workflow for managing issues, tagging issues, assigning issues, etc.}
+{Provide instructions for managing, creating, tagging, and assigning issues.}
 
 #### Creating a branch
 
