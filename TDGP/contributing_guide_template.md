@@ -116,7 +116,7 @@ The sections below detail our current workflow.
 
 #### Creating a branch
 
-{Provide instructions for creating a branch when making changes to the cloned repository.}
+{Provide instructions for creating a branch when making changes to your project's cloned repository.}
 
 #### Creating and submitting pull requests
 
@@ -124,7 +124,7 @@ The sections below detail our current workflow.
 
 ### Approvals and rejections
 
-{Detail the approval process and share critiera for when a doc update or new doc would be rejected for merging to the main branch.}
+{Detail the approval process and share critiera for when a documentation update or new document would be rejected.}
 
 ### Document suggestions
 
