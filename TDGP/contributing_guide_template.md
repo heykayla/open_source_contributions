@@ -68,7 +68,7 @@ The sections below detail our current workflow.
 
 #### Creating a branch
 
-{Provide instructions for creating a branch when making changes to the cloned repository.}
+{Provide instructions for creating a branch.}
 
 #### Commit message
 
@@ -122,7 +122,7 @@ The sections below detail our current workflow.
 
 #### Creating a branch
 
-{Provide instructions for creating a branch when making changes to your project's cloned repository.}
+{Provide instructions for creating a branch.}
 
 #### Creating and submitting pull requests
 
