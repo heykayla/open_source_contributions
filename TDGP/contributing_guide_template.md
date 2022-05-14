@@ -140,6 +140,10 @@ The sections below detail our current workflow.
 
 {Describe the process and share instructions for creating and submitting pull requests.}
 
+### Editing and creating documents
+
+{Specify what you need contributors to know and use to edit and create documents; this can include listing items, such as Markdown, HTML, JSON, etc.}
+
 ### Approvals and rejections
 
 {Detail the approval process and share critiera for when a documentation update or new document would be rejected.}
