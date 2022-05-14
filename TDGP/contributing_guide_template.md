@@ -60,7 +60,7 @@ The sections below detail our current workflow.
 
 #### Forking and cloning
 
-{Provide instructions for cloning your repository.}
+{Provide instructions for forking and cloning your repository.}
 
 #### Issue management
 
@@ -114,7 +114,7 @@ The sections below detail our current workflow.
 
 #### Forking and cloning
 
-{Provide instructions for cloning your repository and explain purpose.}
+{Provide instructions for forking and cloning your repository.}
 
 #### Issue management
 
