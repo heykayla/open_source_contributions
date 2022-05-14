@@ -6,7 +6,7 @@
 
 {Share a welcome message introducing your open source project to your contributors.}
 
-## {Name} Overview
+## {Name} overview
 
 {Provide a brief description about your project.}
 
@@ -14,7 +14,11 @@
 
 {Provide a link to your code of conduct that you need contributors follow.}
 
-Please read our code of conduct to learn about our collection of rules, standards, values, and behavior expectations that contributors need to follow.
+Please read our code of conduct to learn about our collection of rules, standards, values, and behavior expectations that all contributors need to follow.
+
+## Community forum
+
+{Share the link to your online community forum where contributors can chat with other fellow contributors.}
 
 ---
 
