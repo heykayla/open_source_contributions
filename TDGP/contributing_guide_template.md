@@ -36,15 +36,15 @@ Ensure you have the following before contributing:
 
 #### Windows
 
-{Explain the enviroment setup for Windows computers. Include a link to an external page for troubleshooting.}
+{Explain the enviroment setup for Windows computers. Include a link to an external page for sharing troubleshooting steps.}
 
 #### Mac
 
-{Explain the enviroment setup for Mac computers. Include a link to an external page for troubleshooting.}
+{Explain the enviroment setup for Mac computers. Include a link to an external page for sharing troubleshooting steps.}
 
 #### Linux
 
-{Explain the enviroment setup for Linux operating system. Include a link to an external page for troubleshooting.}
+{Explain the enviroment setup for Linux operating system. Include a link to an external page for sharing troubleshooting steps.}
 
 ### Coding practices
 
