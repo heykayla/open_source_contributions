@@ -144,10 +144,6 @@ The sections below detail our current workflow.
 
 {The sections below should detail the process for submitting new document suggestions.}
 
-### Meet the team
-
-{Share info and a link to resources where contributors can speak with other contributors.}
-
 ### Office hours
 
 {If you meet up regularly, share information on your office hours and a link to a reocurring meeting invite, if applicable.}
