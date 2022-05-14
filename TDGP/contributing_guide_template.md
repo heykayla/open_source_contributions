@@ -108,6 +108,10 @@ Ensure you have the following before contributing:
 - Item2
 - Item3
 
+#### Troubleshooting
+
+{Describe the troubleshooting steps in case contribtors encounter issues in setting up their enviroment.}
+
 ### Content style guide
 
 {Share a purpose statement about your style guide and share a link to your style guide for contributors to review.}
