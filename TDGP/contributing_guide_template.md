@@ -8,11 +8,11 @@
 
 ## {Name} overview
 
-{Provide a brief description about your project.}
+{Provide a brief description of your project.}
 
 ## Code of conduct
 
-{Provide a link to your code of conduct that you need contributors follow.}
+{Provide a link to your code of conduct that you need contributors to follow.}
 
 Please read our code of conduct to learn about our collection of rules, standards, values, and behavior expectations that all contributors need to follow.
 
@@ -28,7 +28,7 @@ Please read our code of conduct to learn about our collection of rules, standard
 
 If you're interested in contributing to our codebase, read the sections below to learn how you can contribute.
 
-### Enviroment set up
+### Environment set up
 
 {Provide a list of prerequisites that your contributors need complete or have before they can contribute.}
 
@@ -40,15 +40,15 @@ Ensure you have the following before contributing:
 
 #### Windows
 
-{Explain the enviroment setup for Windows computers. Include a link to an external page for sharing troubleshooting steps.}
+{Explain the environment setup for Windows computers. Include a link to an external page for sharing troubleshooting steps.}
 
 #### Mac
 
-{Explain the enviroment setup for Mac computers. Include a link to an external page for sharing troubleshooting steps.}
+{Explain the environment setup for Mac computers. Include a link to an external page for sharing troubleshooting steps.}
 
 #### Linux
 
-{Explain the enviroment setup for Linux operating system. Include a link to an external page for sharing troubleshooting steps.}
+{Explain the environment setup for Linux operating system. Include a link to an external page for sharing troubleshooting steps.}
 
 ### Coding practices
 
@@ -58,7 +58,7 @@ Ensure you have the following before contributing:
 
 {Provide an overview of your project's workflow for collaborating and contributing. The sections below can help you provide granularity.}
 
-We have a set workflow to streamline contributors work. For this project, we use {name of collaboration platform}.
+We have a set workflow to streamline contributors' work. For this project, we use {the name of the collaboration platform}.
 
 The sections below detail our current workflow.
 
@@ -80,7 +80,7 @@ The sections below detail our current workflow.
 
 #### Creating and submitting pull requests
 
-{Provide instructions for creating and submitting pull requests. This section can also detail instructions for code reviews as pull requests and code reviews can go hand-in-hand. Also, if applicable, you can share a link or include the pull request template that you want contributors to use within this section.}
+{Provide instructions for creating and submitting pull requests. This section can also detail instructions for code reviews, as pull requests and code reviews can go hand-in-hand. Also, if applicable, you can share a link or include the pull request template that you want contributors to use within this section.}
 
 ### Reporting issues
 
@@ -88,7 +88,7 @@ The sections below detail our current workflow.
 
 ### Office hours
 
-{If you meet up regularly, share information on your office hours and a link to a reocurring meeting invite, if applicable.}
+{If you meet up regularly, share information on your office hours and a link to a recurring meeting invite, if applicable.}
 
 ---
 
@@ -98,7 +98,7 @@ The sections below detail our current workflow.
 
 If you're interested in contributing to our documentation, read the sections below to learn how you can contribute.
 
-### Enviroment set up
+### Environment set up
 
 {Provide a list of prerequisites that your contributors need complete or have before they can contribute.}
 
@@ -110,21 +110,21 @@ Ensure you have the following before contributing:
 
 #### Troubleshooting
 
-{Describe the troubleshooting steps in case contribtors encounter issues in setting up their enviroment.}
+{Describe the troubleshooting steps in case contributors encounter issues in setting up their environment.}
 
 ### Content style guide
 
 {Share a purpose statement about your style guide and share a link to your style guide for contributors to review.}
 
-The purpose of our style guide is to ensure consistency in tone, voice, and structur of our documentation.
+The purpose of our style guide is to ensure consistency in the tone, voice, and structure of our documentation.
 
 Before you begin contributing to our documentation, please thoroughly review our {title of your style guide}.
 
 ### Contribution workflow
 
-{The sections below details the workflow contributors must follow.}
+{The sections below detail the workflow contributors must follow.}
 
-We have a set workflow to streamline contributors work. For this project, we use {name of collaboration platform}.
+We have a set workflow to streamline contributors' work. For this project, we use {the name of the collaboration platform}.
 
 The sections below detail our current workflow.
 
@@ -150,7 +150,7 @@ The sections below detail our current workflow.
 
 ### Approvals and rejections
 
-{Detail the approval process and share critiera for when a documentation update or new document would be rejected.}
+{Detail the approval process and share criteria for when a documentation update or new document would be rejected.}
 
 ### Document suggestions
 
@@ -162,4 +162,4 @@ The sections below detail our current workflow.
 
 ### Office hours
 
-{If you meet up regularly, share information on your office hours and a link to a reocurring meeting invite, if applicable.}
+{If you meet up regularly, share information on your office hours and a link to a recurring meeting invite, if applicable.}
