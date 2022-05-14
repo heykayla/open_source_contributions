@@ -114,7 +114,7 @@ Ensure you have the following before contributing:
 
 ### Content style guide
 
-{Share a purpose statement about your style guide and share a link to your style guide for contributors to review.}
+{Share a purpose statement about your style guide and a link to your style guide for contributors to review.}
 
 The purpose of our style guide is to ensure consistency in the tone, voice, and structure of our documentation.
 
