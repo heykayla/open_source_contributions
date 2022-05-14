@@ -22,7 +22,7 @@ Please read our code of conduct to learn about our collection of rules, standard
 
 ---
 
-## Contribute to our code
+## Contribute to our codebase
 
 {This section is tailored to developers interested in contributing to your codebase.}
 
@@ -92,7 +92,7 @@ The sections below detail our current workflow.
 
 ---
 
-## Contribute to our docs
+## Contribute to our documentation
 
 {This section is tailored to writers interested in contributing to your documentation.}
 
@@ -122,7 +122,7 @@ Before you begin contributing to our documentation, please thoroughly review our
 
 ### Contribution workflow
 
-{The sections below detail the workflow contributors must follow.}
+{Provide an overview of your project's workflow for collaborating and contributing. The sections below can help you provide granularity.}
 
 We have a set workflow to streamline contributors' work. For this project, we use {the name of the collaboration platform}.
 
@@ -142,7 +142,7 @@ The sections below detail our current workflow.
 
 #### Creating and submitting pull requests
 
-{Describe the process and share instructions for creating and submitting pull requests.}
+{Provide instructions for creating and submitting pull requests. Also, if applicable, you can share a link or include the pull request template that you want contributors to use within this section}
 
 ### Editing and creating documents
 
@@ -150,7 +150,7 @@ The sections below detail our current workflow.
 
 ### Approvals and rejections
 
-{Detail the approval process and share criteria for when a documentation update or new document would be rejected.}
+{Detail the approval process and share criteria for when an updated or new document would be rejected.}
 
 ### Document suggestions
 
