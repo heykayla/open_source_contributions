@@ -10,7 +10,7 @@
 
 {Provide a brief description about your project.}
 
-## Code of Conduct
+## Code of conduct
 
 {Provide a link to your code of conduct that you need contributors follow.}
 
