@@ -10,7 +10,7 @@
 
 {Provide important information that contributors need to read before they contribute.}
 
-# License and Policies
+## License and Policies
 
 ---
 
