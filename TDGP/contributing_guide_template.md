@@ -18,7 +18,7 @@ Please read our code of conduct to learn about our collection of rules, standard
 
 ## Community forum
 
-{Share the link to your online community forum where contributors can chat with other fellow contributors.}
+{Share a link to your online community forum where contributors can chat with other fellow contributors.}
 
 ---
 
@@ -81,6 +81,10 @@ The sections below detail our current workflow.
 #### Creating and submitting pull requests
 
 {Provide instructions for creating and submitting pull requests. This section can also detail instructions for code reviews as pull requests and code reviews can go hand-in-hand. Also, if applicable, you can share a link or include the pull request template that you want contributors to use within this section.}
+
+### Office hours
+
+{If you meet up regularly, share information on your office hours and a link to a reocurring meeting invite, if applicable.}
 
 ---
 
@@ -146,4 +150,4 @@ The sections below detail our current workflow.
 
 ### Office hours
 
-{If you meet up regularly, share information on your office hours.}
+{If you meet up regularly, share information on your office hours and a link to a reocurring meeting invite, if applicable.}
