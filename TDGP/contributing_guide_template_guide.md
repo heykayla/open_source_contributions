@@ -7,4 +7,4 @@ The contributing guide template includes the following:
 
 ## Why do I need a contributing guide?
 
-A contributing guide establishes a set of guidelines that you want contributors to follow when contributing to your open source project and explains how they can engage with your project.
+A contributing guide establishes a set of guidelines that you want contributors to follow when contributing to your open source project, and it helps to explain how they can engage with your project.
